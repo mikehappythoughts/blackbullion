@@ -1,8 +1,8 @@
 # blackbullion
 
 ## API instructions: 
-if you can rename the .env.example to .env
-Inside the .env file you will see this 'API_URL=your-api-url-here' replace the 'your-api-url-here' with the api url this will allow the app to work.
+1. if you can rename the .env.example to .env
+2. Inside the .env file you will see this 'API_URL=your-api-url-here' replace the 'your-api-url-here' with the api url this will allow the app to work.
 
 ## Build Setup
 
